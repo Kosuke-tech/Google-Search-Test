@@ -1,3 +1,12 @@
 @charset "UTF-8";
 
-bo
+body {
+    margin-left: 20px;
+}
+
+.h2 {
+    font-size: 64px;
+    color: aqua;
+    border-bottom: 2px solid gray;
+}
+
